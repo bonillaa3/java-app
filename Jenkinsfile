@@ -6,5 +6,10 @@ pipeline {
         echo 'more stuff'
       }
     }
+    stage('Maven Build') {
+      steps {
+        sh 'mvn clean package -DskipTests'
+      }
+    }
   }
 }
