@@ -16,8 +16,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+            <state relative-caret-position="197">
+              <caret line="63" selection-start-line="63" selection-end-line="73" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="-26" />
+    <option name="x" value="213" />
+    <option name="y" value="-13" />
     <option name="width" value="666" />
     <option name="height" value="774" />
   </component>
@@ -185,15 +185,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531336074373</updated>
-      <workItem from="1531336080952" duration="559000" />
+      <workItem from="1531336080952" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="559000" />
+    <option name="totallyTimeSpent" value="1478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-7" y="0" width="666" height="775" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,10 +208,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.15070644" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.519802" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -243,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+        <state relative-caret-position="197">
+          <caret line="63" selection-start-line="63" selection-end-line="73" selection-end-column="17" />
         </state>
       </provider>
     </entry>
