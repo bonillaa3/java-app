@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('Maven Deploy') {
+    stage('More Stuff') {
       steps {
-        sh 'mvn tomcat7:deploy'
+        echo 'more stuff'
       }
     }
   }
